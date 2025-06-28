@@ -1,0 +1,30 @@
+
+
+
+[
+  {
+    "mood": "Happy",
+    "icon": "😊",
+    "description": "Feel the sunshine through these uplifting tracks."
+  },
+  {
+    "mood": "Sad",
+    "icon": "😢",
+    "description": "Let the tears flow with emotional melodies."
+  },
+  {
+    "mood": "Romantic",
+    "icon": "💖",
+    "description": "For when you’re lost in love and lyrics."
+  },
+  {
+    "mood": "Chill",
+    "icon": "🧊",
+    "description": "Kick back and relax with lo-fi & calm beats."
+  },
+  {
+    "mood": "Workout",
+    "icon": "🏋️",
+    "description": "Get hyped and smash your sets."
+  }
+]

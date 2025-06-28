@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Mood-Based Playlists",
+    "description": "Automatically generate song collections tailored to your current mood such as Happy, Sad, Chill, Romantic, or Workout.",
+    "icon": "🎵"
+  },
+  {
+    "title": "Smooth Audio Streaming",
+    "description": "Enjoy seamless 30-second audio previews with high-quality playback directly in the browser.",
+    "icon": "🎧"
+  },
+  {
+    "title": "Like & Save Favorites",
+    "description": "Easily mark songs as your favorites and access them anytime in your 'Liked Songs' section.",
+    "icon": "❤️"
+  },
+  {
+    "title": "Smart Search",
+    "description": "Quickly find your favorite songs or artists using the smart search bar.",
+    "icon": "🔍"
+  },
+  {
+    "title": "Responsive UI",
+    "description": "Designed to look great and work smoothly on desktops, tablets, and mobile devices.",
+    "icon": "📱"
+  },
+  {
+    "title": "No Login Required",
+    "description": "Enjoy music instantly without the need to sign up or log in — just pick your mood and play.",
+    "icon": "🚀"
+  },
+  {
+    "title": "Lightweight & Fast",
+    "description": "Built with performance in mind, the app loads quickly and works smoothly even on low-end devices.",
+    "icon": "⚡"
+  },
+  {
+    "title": "Dark Mode Ready",
+    "description": "Switch between light and dark themes based on your visual preference.",
+    "icon": "🌙"
+  }
+]
