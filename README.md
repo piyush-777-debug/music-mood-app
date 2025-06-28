@@ -1,12 +1,43 @@
-# React + Vite
+🎵 Mood Music — Mood-Based Music Player
+A modern, responsive music player web app that curates songs based on your current mood. Built using React, Redux Toolkit, and the Deezer API, this app offers a beautiful UI, mood-filtered playlists, audio previews, smart search, and a "Liked Songs" section — no login required!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎭 Mood-Based Playlists — Happy, Sad, Romantic, Chill, Workout
 
-## Expanding the ESLint configuration
+🔍 Smart Search — Quickly find any track or artist
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+❤️ Like/Save Favorites — Stored in Redux state
+
+🎧 Audio Previews — 30s clips for quick listening
+
+📱 Responsive Design — Mobile-first, clean layout
+
+-React JS
+
+-Redux Toolkit
+
+-React Router DOM
+
+-Axios
+
+-Deezer API
+
+-CSS3 / Flexbox
+
+🔐 Note on Deezer API Usage
+This app uses the Deezer API with https://cors-anywhere.herokuapp.com to bypass CORS restrictions in development. You may face limitations or need your own proxy in production.
+
+🚀 Future Improvements
+
+-User authentication & profiles
+
+-Create & manage custom playlists
+
+-Full song streaming (Spotify/JioSaavn integration)
+
+-Mood detection via camera or sentiment analysis
+
+-Light/Dark theme toggle
+
